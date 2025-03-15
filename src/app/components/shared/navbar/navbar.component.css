@@ -1,0 +1,10 @@
+.titulo{
+    text-align: center;
+}
+.nav li{
+    display: flex;
+    padding-left: 3px;
+}
+.nav li img{
+    width: 5%;
+}
